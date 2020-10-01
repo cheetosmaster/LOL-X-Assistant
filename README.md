@@ -1,3 +1,6 @@
+
+# Hey pls dont discard this request i wanna participate in hacktoberfest :)
+
 <h1>LOL-X-Assistant Beta</h1>
 <p>Your personal assistant for League of Legends! <a href="https://www.github.com/xuan32546/LOL-X-Assistant/releases/download/0.0.4-0/LOL.X.Assistant.rar">Download Me!</a></p>
 <p><strong>Before game start, people always spend more than 30 seconds to prepare the runes. Now, download the lolxassistant, and the only you need to do is just to click once, and all the things will be set for you automatically!</strong></p>
